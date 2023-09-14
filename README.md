@@ -104,13 +104,6 @@ print(event)
 ```
 
 ```python
-# Search for an event by ID, uses a required variable.
-eventid = '9b0004c09cbb4701ae9bc3592bc310ef'
-event = cp.event_by_id(eventid)
-print(event)
-```
-
-```python
 # Create a block rule, uses required and optional variables.
 exception_type = 'blacklist'
 senderEmail = 'tacohater5449@badbaddomain.com'
