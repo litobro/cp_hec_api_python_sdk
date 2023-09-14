@@ -1,24 +1,30 @@
 ## cp_hec_api_python_sdk
 
-## **Check Point Harmony Email and Collaboration SDK. The kit contains an API library covering all endpoints.**
+## **Check Point Harmony Email and Collaboration SDK.**
+
+### **This kit contains an API library covering all documented endpoints.**
 
 ### **Content**
-cphec - The HEC SDK library.
+*cphec* - The HEC SDK library.
 
-examples - File containing examples of how to properly instantiate the class and call upon it for certain functions.
+*examples* - File containing examples of how to properly instantiate the class and call upon it for certain functions.
 
 ### **Installation**
 
 Install the SDK by using the pip tool or by downloading the repository.
 
-Install with pip
-Run:
+**Install with pip**
 
-pip install cp-mgmt-api-sdk (NOT AVAILABLE YET)
-Or:
+Install directly from console (NOT AVAILABLE YET):
+`pip install cp-hec-api-sdk`
+
+Install by pointing to the GitHub repo:
 
 `pip install git+https://github.com/travislockman/cp_hec_api_python_sdk`
 Note: you might be required to use "sudo" for this command.
+
+
+
 Download the repository
 Clone the repository with this command:
 
