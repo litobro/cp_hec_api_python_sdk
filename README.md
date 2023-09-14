@@ -16,11 +16,13 @@ Install the SDK by using the pip tool or by downloading the repository.
 **Install with pip**
 
 Install directly from console (NOT AVAILABLE YET):
+
 `pip install cp-hec-api-sdk`
 
 Install by pointing to the GitHub repo:
 
 `pip install git+https://github.com/travislockman/cp_hec_api_python_sdk`
+
 Note: you might be required to use "sudo" for this command.
 
 
