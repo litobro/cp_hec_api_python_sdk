@@ -39,7 +39,7 @@ Clone the repository with this command:
 
 or by clicking on the ‘Download ZIP’ button and using unzip.
 
-Navigate to .../cp_mgmt_api_python_sdk/ directory and run:
+Navigate to .../cp_hec_api_python_sdk/ directory and run:
 
 `pip install .`
 
@@ -52,16 +52,17 @@ Upgrade the SDK by using pip tool:
 
 Note: you might be required to use "sudo" for this command.
 
+## **Uninstalling**
 
-Uninstall
 Uninstall the SDK by using pip tool:
 
-pip uninstall cp-mgmt-api-sdk
+`pip uninstall cp-mgmt-api-sdk`
+
 Note: you might be required to use "sudo" for this command.
 
 Developed for Python 3.7 and later.
 
-#### Acknowledgements
+## **Acknowledgements**
 
 Freddy for pushing me to Python all those years ago.
 Hec, Raf, Franky for always having my back, love you bros.
