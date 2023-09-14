@@ -80,7 +80,8 @@ ClientID = 'Your Client ID Here'  # Portal Client ID
 SecretKey = 'Your Secret Key Here'  # Portal Secret Key
 region = 'USA'
 
-cp = CPHEC(ClientID, SecretKey, region)  # Instantiate the class with your information and assign it to a variable.
+# Instantiate the class with your information and assign it to a variable.
+cp = CPHEC(ClientID, SecretKey, region)
 ```
 
 
