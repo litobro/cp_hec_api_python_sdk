@@ -159,7 +159,7 @@ class CPHEC:
 
     def put_full_request(self, url_path, headers, verify=False, **kwargs):
         """
-        Build and send a full post request to the server, and return the response
+        Build and send a full put request to the server, and return the response
         --Can be called, but is designed to work internally to the class
         :param url_path: string: The full path of the URL
         :param headers: dictionary: Header dictionary, e.g. (headers={'Content-Type': 'application/json'})
