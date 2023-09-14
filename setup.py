@@ -11,6 +11,7 @@ setup(
     long_description_content_type="text/plain",
     url="https://github.com/travislockman/cp_hec_api_python_sdk",
     packages=setuptools.find_packages(),
+    install_requires=["requests"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: Apache Software License",

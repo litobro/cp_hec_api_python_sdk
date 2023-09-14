@@ -8,8 +8,7 @@
 # May 2023
 # O_o tHe pAcKeTs nEvEr LiE o_O #
 
-
-from cp_hec_api import *
+import cp_hec_api
 
 
 
@@ -18,7 +17,7 @@ SecretKey = 'PLACE YOUR SECRET KEY HERE'  # Portal Secret Key
 region = 'USA, Europe, Australia, or India'
 
 # Instantiate the CPHEC class with the provided ClientID, SecretKey, and region
-CPHEC = CPHEC(ClientID, SecretKey, region)
+CPHEC = cp_hec_api.CPHEC(ClientID, SecretKey, region)
 
 ''' 
     USE CAUTION THIS WILL TAKE ACTION ON YOUR ACTIVE HARMONY EMAIL PORTAL!!!
