@@ -69,6 +69,19 @@ Once installed, import the class and assign to a variable:
 from cp_hec_python_sdk import CPHEC
 ```
 
+Create variables for your Client ID, Secret Key, and region.
+You can get your Client ID and Secret Key from inside your Infinity Portal in Global Settings.
+When you create the API Key, ensure to select Email and Collaboration.
+Also please make sure to save your secret key somewhere secure.
+The four regions available are (USA, Europe, Australia, India):
+
+```python
+ClientID = 'ca9cefe7196044d7954e0957022bd91d'  # Portal Client ID
+SecretKey = 'd0b19efeb84f4679a6675da26013eb47'  # Portal Secret Key
+region = 'USA'
+
+cp = CPHEC(ClientID, SecretKey, region)  # Instantiate the class with your information and assign it to a variable.
+```
 
 
 
