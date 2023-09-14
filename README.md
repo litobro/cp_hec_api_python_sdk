@@ -4,14 +4,14 @@
 
 ### **This kit contains an API library covering all documented endpoints.**
 
-### **Content**
+## **Content**
 *cphec* - The HEC SDK library.
 
 *examples* - File containing examples of how to properly instantiate the class and call upon it for certain functions.
 
 
 
-### **Installation**
+## **Installation**
 
 Install the SDK by using the pip tool or by downloading the repository.
 
