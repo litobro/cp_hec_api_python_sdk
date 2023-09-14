@@ -9,9 +9,13 @@
 
 *examples* - File containing examples of how to properly instantiate the class and call upon it for certain functions.
 
+
+
 ### **Installation**
 
 Install the SDK by using the pip tool or by downloading the repository.
+
+
 
 **Install with pip**
 
@@ -24,6 +28,8 @@ Install by pointing to the GitHub repo:
 `pip install git+https://github.com/travislockman/cp_hec_api_python_sdk`
 
 Note: you might be required to use "sudo" for this command.
+
+
 
 **Download the repository**
 
