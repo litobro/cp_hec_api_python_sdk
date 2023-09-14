@@ -97,7 +97,7 @@ CPHEC = cp_hec_api.CPHEC(ClientID, SecretKey, region)
 
 # Create an exception
 # exception_type = 'blacklist'
-# create_exception = CPHEC.exception_create(exception_type, senderEmail='tacohater5449@badguy.com', comment="ADDED BY THE SDK!")
+# create_exception = CPHEC.exception_create(exception_type, senderEmail='tacohater5449@badbaddomain.com', comment="ADDED BY THE SDK!")
 # print(create_exception)
 
 # Modify an exception

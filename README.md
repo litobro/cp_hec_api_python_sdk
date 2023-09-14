@@ -84,19 +84,43 @@ region = 'USA'
 cp = CPHEC(ClientID, SecretKey, region)
 ```
 
+You can now use your variable to access all the SDK features.
+To see a complete list of methods available, you can print a help of the class:
+
+```python
+print(help(cp))
+```
+
+Passing variables is pretty simple, for required parameters in the API
+you simply pass it using the function.  For optional parameters you
+pass key=value pairs:
 
 
-**Install with pip**
+```python
+# Search for an event by ID, uses a required variable.
+eventid = '9b0004c09cbb4701ae9bc3592bc310ef'
+event = cp.event_by_id(eventid)
+print(event)
+```
 
-Install directly from console (NOT AVAILABLE YET):
+```python
+# Search for an event by ID, uses a required variable.
+eventid = '9b0004c09cbb4701ae9bc3592bc310ef'
+event = cp.event_by_id(eventid)
+print(event)
+```
 
-`pip install cp-hec-api-sdk`
+```python
+# Create a block rule, uses required and optional variables.
+exception_type = 'blacklist'
+senderEmail = 'tacohater5449@badbaddomain.com'
+comment = "ADDED BY THE SDK!"
+create_exception = cp.exception_create(exception_type, senderEmail=senderEmail,
+                                        comment="ADDED BY THE SDK!")
+print(create_exception)
+```
 
-Install by pointing to the GitHub repo:
-
-`pip install git+https://github.com/travislockman/cp_hec_api_python_sdk`
-
-Note: you might be required to use "sudo" for this command.
+**Please consult the examples.py file for a more comprehensive set of examples.**
 
 
 ## **Developed for Python 3.7 and later.**
