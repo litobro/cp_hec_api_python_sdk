@@ -60,7 +60,31 @@ Uninstall the SDK by using pip tool:
 
 Note: you might be required to use "sudo" for this command.
 
-Developed for Python 3.7 and later.
+
+## **How To Use This SDK**
+
+Once installed, import the class and assign to a variable:
+
+```python
+from cp_hec_python_sdk import CPHEC
+
+
+
+
+**Install with pip**
+
+Install directly from console (NOT AVAILABLE YET):
+
+`pip install cp-hec-api-sdk`
+
+Install by pointing to the GitHub repo:
+
+`pip install git+https://github.com/travislockman/cp_hec_api_python_sdk`
+
+Note: you might be required to use "sudo" for this command.
+
+
+## **Developed for Python 3.7 and later.**
 
 ## **Acknowledgements**
 
