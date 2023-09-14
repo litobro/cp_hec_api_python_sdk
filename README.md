@@ -1,6 +1,6 @@
 ## cp_hec_api_python_sdk
 
-## **Check Point Harmony Email and Collaboration SDK.**
+## **Check Point Harmony Email and Collaboration SDK**
 
 **This kit contains an API library covering all documented endpoints.**
 
@@ -45,10 +45,14 @@ Navigate to .../cp_mgmt_api_python_sdk/ directory and run:
 
 
 ## **Upgrading**
+
 Upgrade the SDK by using pip tool:
 
-pip install --upgrade git+https://github.com/travislockman/cp_hec_api_python_sdk
+`pip install --upgrade git+https://github.com/travislockman/cp_hec_api_python_sdk`
+
 Note: you might be required to use "sudo" for this command.
+
+
 Uninstall
 Uninstall the SDK by using pip tool:
 
