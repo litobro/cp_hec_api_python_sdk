@@ -2,7 +2,7 @@ cp_hec_api_python_sdk
 Check Point Harmony Email and Collaboration SDK. The kit contains an API library covering all endpoints.
 
 Content
-cp_hec_api - the HEC library.
+cphec - the HEC library.
 
 examples.py - file containing examples of how to properly instantiate the class and call upon it for certain functions.
 
