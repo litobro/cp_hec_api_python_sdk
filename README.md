@@ -25,17 +25,17 @@ Install by pointing to the GitHub repo:
 
 Note: you might be required to use "sudo" for this command.
 
+**Download the repository**
 
-
-Download the repository
 Clone the repository with this command:
 
-git clone https://github.com/travislockman/cp_hec_api_python_sdk
+`git clone https://github.com/travislockman/cp_hec_api_python_sdk`
+
 or by clicking on the ‘Download ZIP’ button and using unzip.
 
 Navigate to .../cp_mgmt_api_python_sdk/ directory and run:
 
-pip install .
+`pip install .`
 
 
 Upgrade
