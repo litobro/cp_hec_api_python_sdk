@@ -2,7 +2,7 @@
 
 ## **Check Point Harmony Email and Collaboration SDK.**
 
-## **This kit contains an API library covering all documented endpoints.**
+**This kit contains an API library covering all documented endpoints.**
 
 ## **Content**
 *cphec* - The HEC SDK library.
