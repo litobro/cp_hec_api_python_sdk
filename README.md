@@ -67,6 +67,7 @@ Once installed, import the class and assign to a variable:
 
 ```python
 from cp_hec_python_sdk import CPHEC
+```
 
 
 
