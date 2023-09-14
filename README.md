@@ -1,7 +1,8 @@
-cp_hec_api_python_sdk
-Check Point Harmony Email and Collaboration SDK. The kit contains an API library covering all endpoints.
+# cp_hec_api_python_sdk
 
-Content
+# Check Point Harmony Email and Collaboration SDK. The kit contains an API library covering all endpoints.
+
+# Content
 cphec - the HEC library.
 
 examples.py - file containing examples of how to properly instantiate the class and call upon it for certain functions.
@@ -42,6 +43,7 @@ Note: you might be required to use "sudo" for this command.
 Developed for Python 3.7 and later.
 
 Acknowledgements
+
 Freddy for pushing me to Python all those years ago.
 Hec, Raf, Franky for always having my back, love you bros.
 Alex, thanks for the burrito ;)
