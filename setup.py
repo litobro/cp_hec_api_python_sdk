@@ -7,6 +7,6 @@ setup(
     license='Apache 2.0',
     description="Check Point HEC API SDK",
     url="https://github.com/travislockman/cp_hec_api_python_sdk",
-    py_modules=['cphecv1'],
+    py_modules=['cphec'],
     install_requires=['requests']
 )

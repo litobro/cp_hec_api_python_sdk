@@ -66,7 +66,7 @@ Note: you might be required to use "sudo" for this command.
 Once installed, import the class and assign to a variable:
 
 ```python
-from cphecv1 import CPHEC
+from cphec import CPHEC
 ```
 
 Create variables for your Client ID, Secret Key, and region.
