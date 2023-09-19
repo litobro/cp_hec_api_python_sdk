@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='cp-hec-api-sdk',
+    name='cphecv1',
     version='1.0',
     author='Travis Lockman',
     license='Apache 2.0',
