@@ -21,7 +21,7 @@ Install the SDK by using the pip tool or by downloading the repository.
 
 Install directly from console (NOT AVAILABLE YET):
 
-`pip install cp-hec-api-sdk`
+`pip install cphec`
 
 Install by pointing to the GitHub repo:
 
@@ -56,7 +56,7 @@ Note: you might be required to use "sudo" for this command.
 
 Uninstall the SDK by using pip tool:
 
-`pip uninstall cp-mgmt-api-sdk`
+`pip uninstall cphec`
 
 Note: you might be required to use "sudo" for this command.
 
