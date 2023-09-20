@@ -1,3 +1,5 @@
 # Ignore these file extensions
 *.txt
+*.pypirc
 .idea/
+.__pycache_
