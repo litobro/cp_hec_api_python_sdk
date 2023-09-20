@@ -19,7 +19,7 @@ Install the SDK by using the pip tool or by downloading the repository.
 
 **Install with pip**
 
-Install directly from console (NOT AVAILABLE YET):
+Install directly from console:
 
 `pip install cphec`
 

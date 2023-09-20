@@ -2,4 +2,7 @@
 *.txt
 *.pypirc
 .idea/
-.__pycache_
+.__pycache_/
+.dist/
+.build/
+.cphec.egg-info/
