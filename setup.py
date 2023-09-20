@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='cphecv1',
+    name='cphec',
     version='1.0',
     author='Travis Lockman',
     license='Apache 2.0',
