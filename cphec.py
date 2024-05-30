@@ -17,7 +17,8 @@ API_ROOT = {
     'Europe': 'https://cloudinfra-gw.portal.checkpoint.com',
     'USA': 'https://cloudinfra-gw-us.portal.checkpoint.com',
     'Australia': 'https://cloudinfra-gw-ap.portal.checkpoint.com',
-    'India': 'https://cloudinfra-gw-in.portal.checkpoint.com'
+    'India': 'https://cloudinfra-gw-in.portal.checkpoint.com',
+    'Canada': 'https://cloudinfra-gw.ca.portal.checkpoint.com',
 }
 AUTH = '/auth/external'
 APP = '/app/hec-api/v1.0'
